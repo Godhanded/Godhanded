@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blueviolet" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blueviolet" alt=""/><p>The dreamers of the day are dangerouse men, for they may act their dream with open eyes...to make it possible</p>
 <hr>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -47,7 +47,8 @@ I am a Full Stack Blockchain Developer <img src="https://media.giphy.com/media/W
 <hr>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Godhanded&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Godhanded&theme=highcontrast&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godhanded&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Godhanded/Godhanded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
