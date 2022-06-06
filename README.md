@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blueviolet" alt=""/><p>The dreamers of the day are dangerouse men, for they may act their dream with open eyes...to make it possible</p>
+<img src="https://komarev.com/ghpvc/?username=Godhande&label=Hellos&style=for-the-badge&color=blueviolet" alt=""/><p>The dreamers of the day are dangerouse men, for they may act their dream with open eyes...to make it possible</p>
 <hr>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
