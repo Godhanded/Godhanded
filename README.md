@@ -14,7 +14,6 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Godhanded&label=Hellos&style=for-the-badge&color=blueviolet" alt=""/>
 
 
 
