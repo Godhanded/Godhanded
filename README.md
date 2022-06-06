@@ -16,11 +16,7 @@
 </div>
 
 <p>The dreamers of the day are dangerouse men, for they may act their dream with open eyes...to make it possible</p>
-<hr>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  <img src="https://komarev.com/ghpvc/?username=Godhanded&label=Hellos&style=for-the-badge&color=blueviolet" alt=""/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=Godhanded&label=Hellos&style=for-the-badge&color=blueviolet" alt=""/>
 <hr>
 
 ### :man_technologist: About Me :
