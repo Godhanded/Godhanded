@@ -15,10 +15,11 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Godhande&label=Hellos&style=for-the-badge&color=blueviolet" alt=""/><p>The dreamers of the day are dangerouse men, for they may act their dream with open eyes...to make it possible</p>
+<p>The dreamers of the day are dangerouse men, for they may act their dream with open eyes...to make it possible</p>
 <hr>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://komarev.com/ghpvc/?username=Godhanded&label=Hellos&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
 <hr>
 
@@ -64,8 +65,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://media.giphy.com/media/RODiNw1qKHct74LACe/giphy.gif
-https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif
-https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif
-
-![](https://hit.yhype.me/github/profile?user_id=101066095)
