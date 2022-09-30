@@ -16,11 +16,11 @@
 </div>
 
 <p>The dreamers of the day are dangerouse men, for they may act their dream with open eyes...to make it possible</p>
-<img src="https://komarev.com/ghpvc/?username=Godhanded&label=Hellos&style=for-the-badge&color=blueviolet" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Godhandd&label=Hellos&style=for-the-badge&color=blueviolet" alt=""/>
 <hr>
 
 ### :man_technologist: About Me :
-I am a Full Stack Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Full Stack Blockchain Developer and Python Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I’m working as a Freelancer and Blockend developer building full-stack Decentralized web3 applications.
 
@@ -28,7 +28,7 @@ I am a Full Stack Blockchain Developer <img src="https://media.giphy.com/media/W
 
 - :zap: In my free time, I watch Anime 🤤 and listen to Audio-books.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Godand-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/godand)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Godand-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/godand). Drop a message lets build & solve problems with Code together
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
