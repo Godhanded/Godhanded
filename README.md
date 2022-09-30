@@ -16,7 +16,7 @@
 </div>
 
 <p>The dreamers of the day are dangerouse men, for they may act their dream with open eyes...to make it possible</p>
-<img src="https://komarev.com/ghpvc/?username=Godhandd&label=Hellos&style=for-the-badge&color=blueviolet" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Godhanded&label=Hellos&style=for-the-badge&color=blueviolet" alt=""/>
 <hr>
 
 ### :man_technologist: About Me :
