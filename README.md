@@ -48,7 +48,7 @@ I am a Full Stack Blockchain Developer and Python Web Developer <img src="https:
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Godhanded&theme=highcontrast&background=000000&count_private=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godhanded&layout=compact&theme=vision-friendly-dark&hide=CSS&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godhanded&layout=compact&theme=vision-friendly-dark&hide=CSS,SCSS,HTML&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Godhanded/Godhanded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
