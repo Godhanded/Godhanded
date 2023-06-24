@@ -19,6 +19,8 @@
 <img src="https://komarev.com/ghpvc/?username=Godhanded&label=Hellos&style=for-the-badge&color=blueviolet" alt=""/>
 <hr>
 
+![](https://hit.yhype.me/github/profile?user_id=101066095)
+
 ### :man_technologist: About Me :
 I am a Full Stack Blockchain Developer and Python Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
