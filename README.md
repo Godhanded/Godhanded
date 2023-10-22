@@ -7,11 +7,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/godand/">
+  <a href="https://www.linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/Godand_">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -30,7 +30,7 @@ I am a Full Stack Blockchain Developer and Python Web Developer <img src="https:
 
 - :zap: In my free time, I watch Anime 🤤 and listen to Audio-books.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Godand-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/godand). Drop a message lets build & solve problems with Code together
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Godand_-black?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Godand_). Drop a message lets build & solve problems with Code together
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -50,7 +50,8 @@ I am a Full Stack Blockchain Developer and Python Web Developer <img src="https:
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Godhanded&theme=highcontrast&background=000000&count_private=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godhanded&layout=compact&theme=vision-friendly-dark&hide=CSS,SCSS,HTML&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godhanded&layout=compact&theme=vision-friendly-dark&hide=CSS,SCSS,HTML,Jupyter%20Notebook&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Godhanded/Godhanded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
