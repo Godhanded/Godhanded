@@ -30,7 +30,7 @@ I am a Full Stack Blockchain Developer and Python Web Developer <img src="https:
 
 - :zap: In my free time, I watch Anime 🤤 and listen to Audio-books.
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Godand_-black?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Godand_). Drop a message lets build & solve problems with Code together
+- :mailbox: How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Godand_-black?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Godand_). Drop a message lets build & solve problems with Code together
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
