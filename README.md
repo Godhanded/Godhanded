@@ -26,7 +26,7 @@ I am a Full Stack Blockchain Developer and Python Web Developer <img src="https:
 
 - :telescope: I’m working as a Freelancer and Blockend developer building full-stack Decentralized web3 applications.
 
-- :seedling: Exploring full-stack Web2 development and Zero Knowledge Proof.
+- :seedling: Exploring AI/ML and Zero Knowledge Proofs.
 
 - :zap: In my free time, I watch Anime 🤤 and listen to Audio-books.
 
